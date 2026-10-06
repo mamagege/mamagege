@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mamagege&style=for-the-badge&color=6D28D9"/>
+
 
 <img src="https://img.shields.io/github/followers/mamagege?style=for-the-badge&color=6D28D9&label=Followers"/>
 
