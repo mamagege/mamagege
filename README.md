@@ -2,7 +2,7 @@
 ========================= HEADER ========================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Juan%20Diego&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Creative%20Thinker&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Juan%20Diego%20Gaitán&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Creative%20Thinker&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Development;Creative+Thinker+%26+Problem+Solver;Java,+Python,+React+%26+TypeScript;Machine+Learning+Enthusiast;Thinking+Outside+the+Box"/>
 
@@ -40,7 +40,7 @@
 
 # About Me
 
-👋 Hi, I'm Juan Diego, a joyful, creative, and scholarship-awarded student at the prestigious Escuela Colombiana de Ingeniería Julio Garavito in the beautiful capital of Colombia, Bogotá. I am passionate about continuous learning and new technologies, with a hunger to create innovative designs and solve problems by thinking outside the box.
+👋 Hi, I'm Juan Diego Gaitán, a joyful, creative, and scholarship-awarded student at the prestigious Escuela Colombiana de Ingeniería Julio Garavito in the beautiful capital of Colombia, Bogotá. I am passionate about continuous learning and new technologies, with a hunger to create innovative designs and solve problems by thinking outside the box.
 
 Focused on Full Stack Development, I have advanced knowledge in Java, Python, Object-Oriented Programming (OOP), Software Design and Development, Database Administration, Innovation, Leadership, and Machine Learning. I enjoy transforming complex logical problems into maintainable solutions using clean code principles and modern frameworks. Currently, I am expanding my knowledge into Artificial Intelligence Principles Technologies, aiming to bridge the gap between solid engineering practices and intelligent systems.
 
